@@ -16,7 +16,7 @@ It provides a live camera preview and labeled controls for:
 The selected values are saved to an environment-style configuration file, making
 them easy to reuse in robotics data collection and deployment pipelines.
 
-## Why
+## Why.
 
 Automatic exposure and automatic white balance can cause the same object to look
 different between episodes. This is especially noticeable in manipulation tasks
